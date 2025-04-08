@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier
+_commit: 173703f
+_src_path: https://github.com/Johandielangman/basic-repo-copier
+github_public: true
+github_repo_name: transnet-port-scraper
+github_username: Johandielangman
+kofi_username: johanlangman
+project_name: Transnet Port Scraper
+use_kofi: true
+use_precommit: true

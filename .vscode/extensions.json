@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "EditorConfig.EditorConfig",
+        "usernamehw.errorlens",
+        "ms-python.flake8"
+    ]
+}
